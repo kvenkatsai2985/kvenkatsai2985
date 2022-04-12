@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalyanam Venkata Sree Sai</h1>
-<h3 align="center">Computer Science Student Full Stack Developer AI |ML|Tensorflow Enthusiastic</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvenkatsai2985&label=Profile%20views&color=0e75b6&style=flat" alt="kvenkatsai2985" /> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=kvenkatsai2985&label=Profile%20views&color=0e75b6&style=flat" alt="kvenkatsai2985" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
