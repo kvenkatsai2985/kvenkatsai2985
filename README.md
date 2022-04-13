@@ -10,6 +10,7 @@
 <a href="https://kaggle.com/saivenkat90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saivenkat90" height="30" width="40" /></a>
 <a href="https://instagram.com/artificialinteligenceworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artificialinteligenceworld" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/2000030439_sec-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2000030439_sec-1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aiandmlworld🧑‍💻" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aiandmlworld🧑‍💻" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
